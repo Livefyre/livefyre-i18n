@@ -1,12 +1,16 @@
 {
-  "postButtonText": {"key": "postButtonText", "default": "What's on your mind?", "description": "Button that opens editor / upload modal."},
-  "postModalTitle": {"key": "postModalTitle", "default": "Post Your Comment", "description": "Title of the editor modal."},
-  "postModalButton": {"key": "postModalButton", "default": "Post Your Comment", "description": "Button that submits the contents of the editor."},
-  "postModalTitlePlaceholder": {"key": "postModalTitlePlaceholder", "default": "Enter a title", "description": "Placeholder for the title input field in the editor."},
-  "postModalPlaceholder": {"key": "postModalPlaceholder", "default": "What would you like to say?", "description": "Placeholder for the message input field in the editor."},
-  "postModalConfirmationTitle": {"key": "postModalConfirmationTitle", "default": "Thank you for posting!", "description": "Title of the post confirmation modal."},
-  "postModalConfirmationMessage": {"key": "postModalConfirmationMessage", "default": "Your post is being reviewed.", "description": "Message of the post confirmation modal."},
-  "postModalConfirmationButton": {"key": "postModalConfirmationButton", "default": "Done", "description": "Button that closes the post confirmation modal."},
-  "title": {"key": "title", "default": "", "description": "Title of the post button callout."},
-  "message": {"key": "message", "default": "", "description": "Message of the post button callout."}
+  "app": "media-upload",
+  "documentation": "",
+  "translations": {
+    "postButtonText": {"key": "postButtonText", "default": "What's on your mind?", "description": "Button that opens editor / upload modal."},
+    "postModalTitle": {"key": "postModalTitle", "default": "Post Your Comment", "description": "Title of the editor modal."},
+    "postModalButton": {"key": "postModalButton", "default": "Post Your Comment", "description": "Button that submits the contents of the editor."},
+    "postModalTitlePlaceholder": {"key": "postModalTitlePlaceholder", "default": "Enter a title", "description": "Placeholder for the title input field in the editor."},
+    "postModalPlaceholder": {"key": "postModalPlaceholder", "default": "What would you like to say?", "description": "Placeholder for the message input field in the editor."},
+    "postModalConfirmationTitle": {"key": "postModalConfirmationTitle", "default": "Thank you for posting!", "description": "Title of the post confirmation modal."},
+    "postModalConfirmationMessage": {"key": "postModalConfirmationMessage", "default": "Your post is being reviewed.", "description": "Message of the post confirmation modal."},
+    "postModalConfirmationButton": {"key": "postModalConfirmationButton", "default": "Done", "description": "Button that closes the post confirmation modal."},
+    "title": {"key": "title", "default": "", "description": "Title of the post button callout."},
+    "message": {"key": "message", "default": "", "description": "Message of the post button callout."}
+  }
 }
