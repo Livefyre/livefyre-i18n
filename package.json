@@ -1,0 +1,14 @@
+{
+  "name": "livefyre-i18n",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Livefyre i18n",
+  "author": "Livefyre <eng@livefyre.com>",
+  "contributors": {
+    "name": "Livefyre",
+    "email": "eng@livefyre.com"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": "http://www.github.com/Livefyre/livefyre-i18n"
+}
