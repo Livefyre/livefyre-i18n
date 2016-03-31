@@ -1,0 +1,7 @@
+{
+  "app": "carousel-component",
+  "documentation": "",
+  "translations": {
+    "shareButtonText": {"key": "shareButtonText", "default": "Share", "description": "Button that triggers a content share pop-up."}
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "app": "map-component",
+  "documentation": "",
+  "translations": {
+    "postButtonText": {"key": "postButtonText", "default": "What's on your mind?", "description": "Button that opens editor / upload modal."},
+    "postModalTitle": {"key": "postModalTitle", "default": "Post Your Comment", "description": "Title of the editor modal."},
+    "postModalButton": {"key": "postModalButton", "default": "Post Your Comment", "description": "Button that submits the contents of the editor."},
+    "postModalTitlePlaceholder": {"key": "postModalTitlePlaceholder", "default": "Enter a title", "description": "Placeholder for the title input field in the editor."},
+    "shareButtonText": {"key": "shareButtonText", "default": "Share", "description": "Button that triggers a content share pop-up."}
+  }
+}
