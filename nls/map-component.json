@@ -2,6 +2,7 @@
   "app": "map-component",
   "documentation": "",
   "translations": {
+    "featuredText": {"key": "featuredText", "default": "Featured", "description": "Featured tag text"},
     "postButtonText": {"key": "postButtonText", "default": "What's on your mind?", "description": "Button that opens editor / upload modal."},
     "postModalTitle": {"key": "postModalTitle", "default": "Post Your Comment", "description": "Title of the editor modal."},
     "postModalButton": {"key": "postModalButton", "default": "Post Your Comment", "description": "Button that submits the contents of the editor."},
