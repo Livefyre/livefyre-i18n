@@ -2,6 +2,7 @@
   "app": "map-component",
   "documentation": "",
   "translations": {
+    "featuredText": {"key": "featuredText", "default": "Featured", "description": "Featured tag text"},
     "shareButtonText": {"key": "shareButtonText", "default": "Share", "description": "Button that triggers a content share pop-up."}
   }
 }
