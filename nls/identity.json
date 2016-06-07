@@ -27,10 +27,12 @@
     "locationIsFrom": {"key": "locationIsFrom", "default": "is from", "description": ""},
     "labelAvatar": {"key": "labelAvatar", "default": "Avatar", "description": ""},
     "labelComments": {"key": "labelComments", "default": "Comments", "description": ""},
+    "labelConfirmNewPassword": {"key": "labelConfirmNewPassword", "default": "Confirm New Password", "description": "Label displayed above the confirm password input on the reset password view"},
     "labelConfirmPassword": {"key": "labelConfirmPassword", "default": "Confirm Password", "description": ""},
     "labelEmail": {"key": "labelEmail", "default": "Email Address", "description": ""},
     "labelLikes": {"key": "labelLikes", "default": "Likes", "description": ""},
     "labelLoading": {"key": "labelLoading", "default": "Loading", "description": ""},
+    "labelNewPassword": {"key": "labelNewPassword", "default": "New Password", "description": "Label displayed above the new password input on the reset password view"},
     "labelNotifications": {"key": "labelNotifications", "default": "Notifications", "description": ""},
     "labelPassword": {"key": "labelPassword", "default": "Password", "description": ""},
     "labelProfile": {"key": "labelProfile", "default": "Profile", "description": ""},
@@ -80,6 +82,19 @@
     "therewasanerror": {"key": "therewasanerror", "default": "There was an error", "description": ""},
     "thisfieldisrequired": {"key": "thisfieldisrequired", "default": "This field is required.", "description": ""},
     "validfileextensions": {"key": "validfileextensions", "default": "Valid file extensions", "description": ""},
-    "valuemustmatch": {"key": "valuemustmatch", "default": "Value must match", "description": ""}
+    "valuemustmatch": {"key": "valuemustmatch", "default": "Value must match", "description": ""},
+    "passwordLength": {"key": "passwordLength", "default": "be 6 to 32 characters long.", "description": "Password required length error message shown in password popover"},
+    "passwordCharacters": {"key": "passwordCharacters", "default": "include both lower and upper case characters.", "description": "Password required characters error message shown in password popover"},
+    "passwordSymbols": {"key": "passwordSymbols", "default": "include at least one number and one symbol.", "description": "Password required special characters error message shown in password popover"},
+    "passwordUsername": {"key": "passwordUsername", "default": "not contain your username.", "description": "Password username error message shown in password popover"},
+    "passwordPopoverTitle": {"key": "passwordPopoverTitle", "default": "Your password needs to:", "description": "Title of the password popover"},
+    "passwordErrorContainsFirstName": {"key": "passwordErrorContainsFirstName", "default": "The password you entered contains either your username, first name or last name. For security reasons, please enter a password that does not contain your username, first name or last name.<br><br>Please also remember that your password needs to contain:<br>6 to 32 characters<br>An uppercase character<br>A lowercase character<br>A symbol", "description": "Error message shown on the reset password flow if the user's password contains their first name"},
+    "passwordErrorContainsLastName": {"key": "passwordErrorContainsLastName", "default": "The password you entered contains either your username, first name or last name. For security reasons, please enter a password that does not contain your username, first name or last name.<br><br>Please also remember that your password needs to contain:<br>6 to 32 characters<br>An uppercase character<br>A lowercase character<br>A symbol", "description": "Error message shown on the reset password flow if the user's password contains their last name"},
+    "passwordErrorContainsUsername": {"key": "passwordErrorContainsUsername", "default": "The password you entered contains either your username, first name or last name. For security reasons, please enter a password that does not contain your username, first name or last name.<br><br>Please also remember that your password needs to contain:<br>6 to 32 characters<br>An uppercase character<br>A lowercase character<br>A symbol", "description": "Error message shown on the reset password flow if the user's password contains their username"},
+    "passwordErrorTooShort": {"key": "passwordErrorTooShort", "default": "Minimum of 6 characters for password", "description": "Error message shown on the reset password flow if the user's password is shorter than 6 characters"},
+    "passwordErrorTooLong": {"key": "passwordErrorTooLong", "default": "Maximum of 32 characters for password", "description": "Error message shown on the reset password flow if the user's password is longer than 6 characters"},
+    "passwordErrorMissingUppercase": {"key": "passwordErrorMissingUppercase", "default": "Password should contain at least one uppercase character", "description": "Error message shown on the reset password flow if the user's password doesn't contain at least 1 uppercase character"},
+    "passwordErrorMissingLowercase": {"key": "passwordErrorMissingLowercase", "default": "Password should contain at least one lowercase character", "description": "Error message shown on the reset password flow if the user's password doesn't contain at least 1 lowercase character"},
+    "passwordErrorMissingSymbol": {"key": "passwordErrorMissingSymbol", "default": "Password should contain at least one symbol in the set !@#$%^&*()?.,<>';:\"[]{}|", "description": "Error message shown on the reset password flow if the user's password doesn't contain at least 1 symbol in the set !@#$%^&*()?.,<>';:\"[]{}|"}
   }
 }
