@@ -3,9 +3,12 @@
   "documentation": "http://answers.livefyre.com/developers/reference/app-customizations/change-display-options/localize-strings/",
   "translations": {
     "displayName": {"key": "displayName", "default": "%s", "description": "Display name of the authenticated user."},
+    "displayNameGuest": {"key": "displayNameGuest", "default": "%s <em>(guest)</em>", "description": "Display name of the guest user."},
     "editProfile": {"key": "editProfile", "default": "Edit profile", "description": "Link that navigates to the authenticated user's edit profile page."},
     "notificationSettings": {"key": "notificationSettings", "default": "Notification settings", "description": "Link that navigates to the authenticated user's notification settings."},
     "siteAdmin": {"key": "siteAdmin", "default": "Studio", "description": "Link that navigates to network's Studio section."},
+    "signIn": {"key": "signIn", "default": "Sign in", "description": "Link to open the authentication modal."},
+    "signInGuest": {"key": "signInGuest", "default": "Sign in or Post as Guest", "description": "Link to open the authentication modal."},
     "signOut": {"key": "signOut", "default": "Sign out", "description": "Link that signs the authenticated user out."},
     "commentCountLabelZero": {"key": "commentCountLabelZero", "default": "%s comment", "description": "Comment count label if there are no comments."},
     "commentCountLabel": {"key": "commentCountLabel",  "default": "%s comment", "description": "Comment count label if there is 1 comment."},
