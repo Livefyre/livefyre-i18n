@@ -1,0 +1,17 @@
+{
+  "app": "date",
+  "documentation": "",
+  "translations": {
+    "hoursAgo": {"key": "hoursAgo", "default": "{number}h", "description": "Content was posted more than 1 hour ago and less than 1 day ago"},
+    "hoursAgoSingular": {"key": "hoursAgoSingular", "default": "{number}h", "description": "Content was posted 1 hour ago"},
+    "justNow": {"key": "justNow", "default": "1s", "description": "Content was just posted"},
+    "minutesAgo": {"key": "minutesAgo", "default": "{number}m", "description": "Content was posted more than 1 minute ago and less than 60 minutes ago"},
+    "minutesAgoSingular": {"key": "minutesAgoSingular", "default": "{number}m", "description": "Content was posted 1 minute ago"},
+    "monthDayFormat": {"key": "monthDayFormat", "default": "{day} {monthAbbrev}", "description": "Date format with day and month abbreviation"},
+    "monthDayYearFormat": {"key": "monthDayYearFormat", "default": "{day} {monthAbbrev} {year}", "description": "Date format with day, month abbreviation, and year"},
+    "monthNames": {"key": "monthNames", "default": "January, February, March, April, May, June, July, August, September, October, November, December", "description": "Names of the months"},
+    "monthNamesAbbrev": {"key": "monthNamesAbbrev", "default": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec", "description": "Abbreviated names of the months"},
+    "secondsAgo": {"key": "secondsAgo", "default": "{number}s", "description": "Content was posted more than 1 second ago and less than 60 seconds ago"},
+    "secondsAgoSingular": {"key": "secondsAgoSingular", "default": "{number}s", "description": "Content was posted 1 second ago"}
+  }
+}
