@@ -1,0 +1,8 @@
+{
+  "app": "poll-component",
+  "documentation": "",
+  "translations": {
+    "totalVotesLabel": {"key": "totalVotesLabel", "default": "%s total votes", "description": "Total vote count label."},
+    "shareStringText": {"key": "shareStringText", "default": "I just voted on %s What's your vote?", "description": "Text for the social shares."}
+  }
+}
