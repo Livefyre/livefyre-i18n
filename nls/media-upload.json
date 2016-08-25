@@ -11,6 +11,11 @@
     "postModalConfirmationMessage": {"key": "postModalConfirmationMessage", "default": "Your post is being reviewed.", "description": "Message of the post confirmation modal."},
     "postModalConfirmationButton": {"key": "postModalConfirmationButton", "default": "Done", "description": "Button that closes the post confirmation modal."},
     "title": {"key": "title", "default": "", "description": "Title of the post button callout."},
-    "message": {"key": "message", "default": "", "description": "Message of the post button callout."}
+    "message": {"key": "message", "default": "", "description": "Message of the post button callout."},
+    "editorErrorAttachmentsRequired": {"key": "editorErrorAttachmentsRequired", "default": "An attachment is required", "description": "Editor error message when no attachment is submitted but is required"},
+    "editorErrorBody": {"key": "editorErrorBody", "default": "Please add a message", "description": "Editor error message when no body is submitted"},
+    "editorErrorDuplicate": {"key": "editorErrorDuplicate", "default": "As much as you like your note, you cannot post it twice", "description": "Editor error message when user attempts to post the same content twice"},
+    "editorErrorGeneric": {"key": "editorErrorGeneric", "default": "There was an error", "description": "Default editor error message"},
+    "editorErrorTitleRequired": {"key": "editorErrorTitleRequired", "default": "A title is required", "description": "Editor error message when no title is submitted but is required"}
   }
 }
