@@ -100,6 +100,8 @@
     "likesSingular": {"key": "likesSingular", "default": "Like", "description": "Number of likes a comment has received -- Exactly 1 like."},
     "listenerCount": {"key": "listenerCount",  "default": "person listening", "description": "Number of users listening to the conversation -- 1 user listening."},
     "listenerCountPlural": {"key": "listenerCountPlural",  "default": "people listening", "description": "Number of users listening to the conversation -- More than 1 user listening."},
+    "listenerProfile": {"key": "listenerProfile",  "default": "profile", "description": "Accessibility string for the listener aria label."},
+    "listenerAvatar": {"key": "listenerAvatar",  "default": "avatar", "description": "Accessibility string for the listener avatar alt tag."},
     "listenerMobile": {"key": "listenerMobile", "default": "people", "description": ""},
     "livecountSeparator": {"key": "livecountSeparator", "default": "|", "description": ""},
     "loadingPermalink": {"key": "loadingPermalink", "default": "Loading short url…", "description": ""},
