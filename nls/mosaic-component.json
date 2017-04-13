@@ -3,6 +3,9 @@
   "documentation": "",
   "translations": {
     "featuredText": {"key": "featuredText", "default": "Featured", "description": "Featured tag text"},
-    "shareButtonText": {"key": "shareButtonText", "default": "Share", "description": "Button that triggers a content share pop-up."}
+    "shareButtonText": {"key": "shareButtonText", "default": "Share", "description": "Button that triggers a content share pop-up."},
+    "productIndicationText": {"key": "productIndicationText", "default": "Shop", "description": "Text on card signifying that there are associated products."},
+    "productCarouselTitleText": {"key": "productCarouselTitleText", "default": "Shop these products:", "description": "Title displayed above associated products."},
+    "productButtonText": {"key": "productButtonText", "default": "Buy Now", "description": "Product-specific buy button that links to the product page."}
   }
 }
